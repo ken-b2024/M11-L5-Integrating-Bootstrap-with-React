@@ -1,0 +1,13 @@
+.img {
+    width: 700px;
+  height: auto;
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+
+.content {
+    font-size: xxx-large;
+    color: red;
+    padding-top: 8rem;
+    padding-left: 3rem;
+}
